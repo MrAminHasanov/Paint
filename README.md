@@ -7,4 +7,4 @@ npm run dev
 
 //Стэк: NextJs/Redux-toolkit/Scss  
 
-[//Сылка на дэплоймент](https://mraminhasanov.github.io/Paint/)
+[//Сылка на дэплоймент](https://mraminhasanov.github.io/Paint/) 
