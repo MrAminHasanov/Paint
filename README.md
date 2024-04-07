@@ -1,5 +1,5 @@
-//Project Initialization:
-npm i
+//Project Initialization:  
+npm i  
 npm run dev
 
 //Stack: NextJs/Redux-toolkit/Scss
